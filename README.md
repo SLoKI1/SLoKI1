@@ -1,5 +1,5 @@
 
-![Video](vid2.mp4)
+![Video](vid2.gif)
 
 ---
 
